@@ -22,7 +22,7 @@ Presentation slides can be found <a href="https://github.com/rafaelpierre/Jupyte
 
 Check my two stories on the subject at **Towards Data Science**:
 
-* <a href='https://towardsdatascience.com/going-dutch-how-i-used-data-science-and-machine-learning-to-find-an-apartment-in-amsterdam-part-def30d6799e4>Going Dutch, Part 1: How I Used Data Science & Machine Learning to Find an Apartment in AMS</a>
+* <a href='https://towardsdatascience.com/going-dutch-how-i-used-data-science-and-machine-learning-to-find-an-apartment-in-amsterdam-part-def30d6799e4'>Going Dutch, Part 1: How I Used Data Science & Machine Learning to Find an Apartment in AMS</a>
 * <a href='https://towardsdatascience.com/going-dutch-part-2-improving-a-machine-learning-model-using-geographical-data-a8492b67b885'>Going Dutch, Part 2: Improving a Machine Learning Model Using Geographical Data</a>
 
 ## Questions? Suggestions?l
