@@ -1,6 +1,6 @@
 # JupyterAMS
 
-Exploration notebook for Amsterdam Rental Apartments showing some of the great functionalities of iPyWidgets and PyViz for the talk that I gave during the first JupyterAMS Meetup on February 14th 2019.
+Exploration notebook for **Amsterdam Rental Apartments** showing some of the great functionalities of **iPyWidgets** and **PyViz** for the talk that I gave during the first **JupyterAMS Meetup** on February 14th 2019.
 
 ## Dependencies
 
